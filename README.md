@@ -1,6 +1,6 @@
 # rpc-issue
 
-The repo demonstates the [issue]([url](https://github.com/supabase-community/supabase-py/issues/405)https://github.com/supabase-community/supabase-py/issues/405) with supabase-py rpc method.
+The repo demonstates the [issue](https://github.com/supabase-community/supabase-py/issues/405) with supabase-py rpc method.
 
 DB function code:
 ```
